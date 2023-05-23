@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/hacked/static/css/main.1c141381.css",
+    "main.js": "/hacked/static/js/main.f0bdec82.js",
+    "static/js/787.81dc7098.chunk.js": "/hacked/static/js/787.81dc7098.chunk.js",
+    "static/media/logo.svg": "/hacked/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/hacked/index.html",
+    "main.1c141381.css.map": "/hacked/static/css/main.1c141381.css.map",
+    "main.f0bdec82.js.map": "/hacked/static/js/main.f0bdec82.js.map",
+    "787.81dc7098.chunk.js.map": "/hacked/static/js/787.81dc7098.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c141381.css",
+    "static/js/main.f0bdec82.js"
+  ]
+}
